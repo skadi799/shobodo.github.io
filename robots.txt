@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/skadi799/shobodo.github-io/sitemap.xml
